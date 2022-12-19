@@ -1,0 +1,35 @@
+nav {
+    display: inline-flexbox ;
+    width: auto;
+    height: auto; 
+    overflow: hidden;
+    background-color: rgb(14, 35, 69);
+    padding: 10px;
+}
+body {
+    background-image: url(https://cdn.motor1.com/images/mgl/Znnr7z/s1/jidu-auto-robo-01-concpept.webp);
+    height: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+    background-color: rgb(196, 162, 137)
+;
+margin: 0%;
+padding: 0%;
+
+}
+nav a{
+text-decoration:none  ;
+font-size: 40px;
+color: red;
+margin:40px;
+}
+footer a{
+    text-decoration:none  ;
+font-size: 30px;
+color: red;
+margin:20px;
+order: inherit;
+}
+footer{
+    bottom: 0;
+}
